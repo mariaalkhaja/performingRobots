@@ -1,0 +1,10 @@
+Challenges:
+
+1 - Putting all the part together and synchronizing them:
+        Everything works well on it's own. The challenging part was getting them to work together in a meaningful
+        to mimic a ballerina dance. The trickiest part was getting both arms to move together because the servos
+        were going oppoiste ways. The other tricky part was adjusting the speed of the base to the beats of the
+        music, so that Angelina would spin faster as the beat goes faster. 
+        
+2 - Strong base:
+        Angelina has all her weight carried on one leg. 
