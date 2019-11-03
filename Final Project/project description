@@ -1,1 +1,42 @@
+#Final Project Idea
 
+For my final project, I would like to have a plant which suddenly comes to life after a thunderstorm. 
+It gets very excited about being real and moving around. It goes around in circles and moves back and 
+forth. Time passes and soon the plant gets bored. It finds a mirror and inspects itself. It 
+
+finds a mirror
+inspects itself -> plays buttons
+gets bored 
+finds other object like it
+inspects them
+tries to talk to them
+none reply 
+feels very lonely and sad
+doesn’t  want to live anymore
+slowly starts glitching and dies
+the moment it dies the other object wakes up
+“oh my dear son, what are you doing lying on the floor” … 
+
+
+robot:
+- motors to move around 
+- neopixil face
+- LED around body
+- servo to move leaf back and forth
+- 3 buttons (LED/neopixils)
+    - 1.  music
+    - 2.  twirls around 
+    - 3.  LED around body lights up 
+- if possible: something (wavelength) to show sound 
+
+other objects:
+- mirror
+- projector screen? 
+- duplicate of the robot 
+
+background sound: 
+- clock ticking
+
+performance:
+- remote controlled
+- around 2 minutes in length 
