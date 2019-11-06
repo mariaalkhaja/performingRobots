@@ -1,0 +1,19 @@
+November 5th:
+Today I found a base for my robot. I drilled in the motors and glued on a piece of wood for the small wheel, 
+I am waiting for it to dry and tomorrow I will drill in the wheel. With that, the construction of the base will
+be complete.
+
+Next steps:
+    1 - build stem (decide on material: wood/cardboard/lasercutter)
+    2 - solder bluefruit into arduino
+    3 - connect the motor wires to the arduino
+    4 - get + attach neopixils to the stem
+    5 - connect neopixil to arduino
+    6 - program neopixil facial expressons
+    7 - program motor movements 
+    
+I plan to finish steps 1-5 by the end of next week, and possibly start with steps 6 and 7. I want to work to
+finish the first robot as early as I can so I can start practicing how the performance will go, possibly add
+more features to it, and because I also have to build a second one. I know I will struggle and will need the
+professor's help a lot, so I want to encounter the problems that will pop up as early as possible in the 
+process now that we're in a more relaxed part of the semester and we have more time. 
