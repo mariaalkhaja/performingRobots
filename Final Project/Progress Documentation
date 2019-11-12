@@ -3,14 +3,15 @@ Today I found a base for my robot. I drilled in the motors and glued on a piece 
 I am waiting for it to dry and tomorrow I will drill in the wheel. With that, the construction of the base will
 be complete.
 
-Next steps:
-    1 - build stem (decide on material: wood/cardboard/lasercutter)
-    2 - solder bluefruit into arduino
-    3 - connect the motor to  arduino
-    4 - get + attach neopixils to the stem
-    5 - connect neopixil to arduino
-    6 - program neopixil facial expressons
-    7 - program motor movements 
+    Next steps:
+        1 - build stem (decide on material: wood/cardboard/lasercutter)
+        2 - solder bluefruit into arduino
+        3 - connect the motor to  arduino
+        4 - program motor movements
+        5 - get + attach neopixils to the stem
+        6 - connect neopixil to arduino
+        7 - program neopixil facial expressons
+       
     
 I plan to finish steps 1-5 by the end of next week, and possibly start with steps 6 and 7. I want to work to
 finish the first robot as early as I can so I can start practicing how the performance will go, possibly add
@@ -18,11 +19,22 @@ more features to it, and because I also have to build a second one. I know I wil
 professor's help a lot, so I want to encounter the problems that will pop up as early as possible in the 
 process now that we're in a more relaxed part of the semester and we have more time. 
 
+------------------------------------------------------------------------------------------------------------------
 
 November 11:
 I connected the wires to the motor. I will get checkout the bluefruit tomorrow and solder it onto the motorsheild.
 
+------------------------------------------------------------------------------------------------------------------
 
 November 12:
-I checked out the bluefruit and soldered it onto my motorshield. I am working on programming the motor to move as
-I press the arrows on the bluefruit. 
+I checked out the bluefruit and soldered it onto my motorshield. I programmed the motors to move correspondingly to
+the arrows on the controller. 
+
+    Next steps:
+        1- Build and attach stem
+        2- Get and attach neopixils for face
+        3- Connect leaf and servo 
+        4- Program neopixils and leaf
+        
+        
+      
