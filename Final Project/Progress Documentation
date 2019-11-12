@@ -6,7 +6,7 @@ be complete.
 Next steps:
     1 - build stem (decide on material: wood/cardboard/lasercutter)
     2 - solder bluefruit into arduino
-    3 - connect the motor wires to the arduino
+    3 - connect the motor to  arduino
     4 - get + attach neopixils to the stem
     5 - connect neopixil to arduino
     6 - program neopixil facial expressons
@@ -20,4 +20,9 @@ process now that we're in a more relaxed part of the semester and we have more t
 
 
 November 11:
-I connected the wires to the motor. I will get checkout the bluefruit tomorrow and solder it into the motorsheild.
+I connected the wires to the motor. I will get checkout the bluefruit tomorrow and solder it onto the motorsheild.
+
+
+November 12:
+I checked out the bluefruit and soldered it onto my motorshield. I am working on programming the motor to move as
+I press the arrows on the bluefruit. 
