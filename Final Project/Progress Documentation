@@ -49,3 +49,37 @@ I found the sound effects I need for my performance:
                        - Sound for robot talking
         
       
+------------------------------------------------------------------------------------------------------------------
+
+November 16:
+I started writing my script. I decided to adjust my performace, instead on having the buttons that light up, which 
+would make things complicated since I don't have enough buttons on the bluefruit, I decided to add a short 30 seconds 
+dance and song.
+
+What I have so far:
+*Thunderstorm sound effect*
+*Machine coming life sound effect + neopixils light up*
+*Machine moves forward*
+
+Machine 1 :
+ 		“Oh, that’s amazing I can move around. Oh, and talk! Wow, I feel fantastic. 
+
+		*Spots self in mirror*
+*Walks to mirror*
+
+Machine 1:
+		“Hi there, I am um .. um .. I don’t know who I am, no one has told me yet, but who are you?”
+
+		*Twirls around*
+
+Machine 1:
+“I know who you are, you are me. You look so cool. It’s so amazing to be alive.”
+
+*Song plays + Dance*
+
+	Machine 1: 
+		“But what’s the point of being alive if it’s just me, and you, who is also me.”
+
+
+------------------------------------------------------------------------------------------------------------------
+
