@@ -29,11 +29,17 @@ Finally I programmed the whole thing to work together.
 
 
 # List of important parts
+
   1- Bluefruit BLE SPI Friend for phone control
+  
   2- 2 DC Motors to drive around 
+  
   3- 1 Servo motor for the leaf
+  
   4- Neopixels strip for the face and around the pot
+  
   5- 5V battery pack
+  
   6- 22V lithium battery
 
 
