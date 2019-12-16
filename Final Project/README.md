@@ -10,8 +10,21 @@ then shuts down. The moment it does so, the other plants wakes up and says,“oh
 you."
 
 
-Overall picture(s)
-System diagram of the hardware
+# Progress Pictures
+I started by drawing a sketch of how I imagined my robot to be.
+![](sketch.jpg)
+
+I then built and programmed the base.
+![](base.jpg)
+
+Then I built the stem, and connected and programmed the servo.
+![](stem.jpg)
+
+Then I added the face and petals, and covered the stem and leaf with green.
+![](all.PNG)
+
+Finally I programmed the whole thing to work together.
+![](code.jpg)
 
 
 
@@ -27,11 +40,22 @@ System diagram of the hardware
 
 # Problems:
   1- The servo stopped working
+  
   I programmed the servos to move at different speeds and different ranges depending on the emotions of the plant.
   However, when I compiled the whole program the servos would not work. The best solution was to just not use the 
   servo. 
-  2- 
+  
+  
+  2- Getting familiar with the parts 
+  
+  All the parts were new to me. I worked with the servos and neopixels a little onour midterm project, but everything
+  else was new. I was slow, and I took my time to learn about those parts, ask for help, get familiar with them.
+  I always gave myself more time than I believed I needed and never rushed myself with anything. It was a long,
+  slow process which required good time management, but I learned a lot.
+  
+  
   3- Inability to work on the weekend 
+  
   I am only on campus Monday through Thursday, but I leave Thursdays right after my class, which gives me only
   three days to work on my project per week. I had to organize my time really well so that I spend those full
   three days working on my robot, and also working on things that I dont need the lab for, such as the script
