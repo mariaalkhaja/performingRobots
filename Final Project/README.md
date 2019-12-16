@@ -1,13 +1,7 @@
-Document your project on Github using Markdown (.md).
-Do not upload Word or other formatted file formats.
-Include images inline first by uploading them and then using the  format.
-Simple Github instructions are here
+# Overall project concept and description
 ![](IMG_5236.PNG)
 
-
-
-# Overall project concept and description
-My final project is about a plant which suddenly comes to life after a thunderstorm strikes. 
+My [final project] https://drive.google.com/open?id=1uz7tgk99hdHKHJIrNHluxbeR6VsvlWnh is about a plant which suddenly comes to life after a thunderstorm strikes. 
 It gets very excited about being real and moving around. It goes around in circles and moves back and 
 forth, and starts singing a song. Then it realizes that living alone is pointless. It bumps into another plants that looks
 just like it but more mature. It starts inspecting it, and talking to it. It gets no response 
